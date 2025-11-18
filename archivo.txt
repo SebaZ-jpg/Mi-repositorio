@@ -1,0 +1,2 @@
+Esto es el primer archivo rastreado con GIT
+Esto es para el repositorio. 
