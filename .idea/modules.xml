@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClaseLisa/ClaseLisa.iml" filepath="$PROJECT_DIR$/ClaseLisa/ClaseLisa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Git_GTA/Git_GTA.iml" filepath="$PROJECT_DIR$/Git_GTA/Git_GTA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mi_repositorio.iml" filepath="$PROJECT_DIR$/.idea/Mi_repositorio.iml" />
+    </modules>
+  </component>
+</project>
